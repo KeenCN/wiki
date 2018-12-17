@@ -25,7 +25,7 @@
 
 **环境依赖**   
 安装mysql & redis      
-wget http://x2know.qiniudn.com/schema.sql      
+https://github.com/URLooker/web/blob/master/schema.sql
 将schema.sql 导入数据库  
 
 二进制安装(Ubuntu 14.4 Go1.6下编译)：
